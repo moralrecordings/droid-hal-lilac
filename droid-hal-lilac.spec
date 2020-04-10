@@ -7,6 +7,8 @@
 %define vendor_pretty Sony
 %define device_pretty Xperia XZ1 Compact
 
+%define droid_target_aarch64 1
+
 %define installable_zip 1
 
 %include rpm/dhd/droid-hal-device.inc
